@@ -1,5 +1,6 @@
 # DeviceDisposalAdministration
 Project for university assignement
+
 1)Create the following Java classes: Municipality, Application, 
 Appliance, Employee, Driver, Transporter, Officer, TransportVehicle, PickUp, DisposalPoint. 
 
